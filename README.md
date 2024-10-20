@@ -6,7 +6,7 @@ Ruby on Rails & React Developer
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [enzodiaz.2619@gmail.com](mailto:enzodiaz.2619@gmail.com)
-* 🚀  I'm currently working at [Sinaptia](http://sinaptia.dev)
+* 🚀  I'm currently working at [Crunchloop](https://www.crunchloop.io)
 * ⚡  Work hard, play hard
 
 ### Skills
